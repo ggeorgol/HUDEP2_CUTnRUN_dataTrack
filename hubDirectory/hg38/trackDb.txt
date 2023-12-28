@@ -1,12 +1,12 @@
 track GATA1smoothDens
-bigDataUrl https://encode@collabor8:resources.altius.org/~ggeorgol/data_tracks/HUDEP2_cutnrun/HUDEP2_GATA1_LN50853.75_20.GRCh38_no_alts.bw
+bigDataUrl https://encode:collabor8@resources.altius.org/~ggeorgol/data_tracks/HUDEP2_cutnrun/HUDEP2_GATA1_LN50853.75_20.GRCh38_no_alts.bw
 shortLabel GATA1 CUT&RUN
 longLabel HUDEP2 GATA1 ab11852, Abcam CUT&RUN smoothed density 
 type bigWig
 visibility full
 
 track H3K27acsmoothDens
-bigDataUrl https://encode@collabor8:resources.altius.org/~ggeorgol/data_tracks/HUDEP2_cutnrun/HUDEP2_H3K27ac_LN50131.75_20.GRCh38_no_alts.bw
+bigDataUrl https://encode:collabor8@resources.altius.org/~ggeorgol/data_tracks/HUDEP2_cutnrun/HUDEP2_H3K27ac_LN50131.75_20.GRCh38_no_alts.bw
 shortLabel H3K27ac CUT&RUN
 longLabel HUDEP2 H3K27ac, Active motif 39133, CUT&RUN smoothed density 
 type bigWig
