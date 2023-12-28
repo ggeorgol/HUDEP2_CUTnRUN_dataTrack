@@ -1,4 +1,4 @@
-hub Hudep2Cut&RunDataHub
+hub CutnRunDataHub
 shortLabel HUDEP2 CUT&RUN
 longLabel HUDEP2 GATA1 and H3K27ac CUT&RUN density signal for Psatha et al.
 genomesFile genomes.txt
