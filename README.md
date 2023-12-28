@@ -1,2 +1,2 @@
 # trackHub to HUDEP-2 GATA1 and H3K27ac CUT&RUN data
-Smoothed density bigWig tracks for HUDEP-2 GATA1 ab11852, Abcam and H3K27ac Active motif 39133 for [Psatha et al., 23](https://www.biorxiv.org/content/10.1101/2023.10.04.559165v1)
+Smoothed density bigWig tracks for HUDEP-2 GATA1 ab11852, Abcam and H3K27ac Active motif 39133 for [Psatha et al., 2023](https://www.biorxiv.org/content/10.1101/2023.10.04.559165v1)
